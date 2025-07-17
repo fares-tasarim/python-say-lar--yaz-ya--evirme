@@ -1,2 +1,2 @@
-# python-say-lar--yaz-ya--evirme
+# python-sayıları yazıya çeviren program
 Python ile sayıları yazıya çeviren program
